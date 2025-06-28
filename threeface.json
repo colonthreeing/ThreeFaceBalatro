@@ -1,0 +1,17 @@
+{
+	"id": "threeface",
+	"name": "ThreeFace",
+	"author": [":3ing"],
+	"description": "Makes Smiley into a :3",
+	"prefix": "threeface",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_text_colour": "FFFFFF",
+	"display_name": "Three Face",
+	"version": "1.1.0",
+	"dependencies": [
+		"Steamodded (>=1.*)",
+		"Lovely (>=0.6)"
+	],
+	"conflicts": []
+}
